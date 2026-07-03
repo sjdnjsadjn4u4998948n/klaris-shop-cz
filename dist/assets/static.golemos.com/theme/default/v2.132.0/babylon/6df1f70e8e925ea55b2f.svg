@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg viewBox="0 0 33 25" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" opacity="0.5">
+        <g id="footer" transform="translate(-987.000000, -213.000000)" fill="#000000" fill-rule="nonzero">
+            <g id="content">
+                <g transform="translate(150.000000, 74.000000)">
+                    <g id="col" transform="translate(837.000000, 0.000000)">
+                        <path d="M31.96875,139 L1.03125,139 C0.462,139 0,139.448 0,140 L0,158 C0,158.552 0.462,159 1.03125,159 L31.96875,159 C32.538,159 33,158.552 33,158 L33,140 C33,139.448 32.538,139 31.96875,139 Z M29,141 L17,148 L5,141 L29,141 Z M2,157 L2,142 L16.5,150.682265 L31,142 L31,157 L2,157 Z" id="Shape"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
